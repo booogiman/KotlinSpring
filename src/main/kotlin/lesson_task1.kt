@@ -1,7 +1,7 @@
 package org.example
 
 fun main(){
-    val countOrders: Int
+    val countOrders: Int = 75
     val feedBack: String
 
 }
